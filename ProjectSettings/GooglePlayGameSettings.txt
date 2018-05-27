@@ -1,0 +1,10 @@
+lastUpgrade=00936
+proj.pluginVersion=0.9.36
+proj.AppId=1084244797020
+and.BundleId=com.abhijit.colorblocks
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0a%3c%21--%0aGoogle+Play+game+services+IDs.%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0a--%3e%0a%3cresources%3e%0a++%3cstring+name%3d%22app_id%22%3e1084244797020%3c%2fstring%3e%0a++%3cstring+name%3d%22package_name%22%3ecom.abhijit.colorblocks%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_learner%22%3eCgkI3MyakMcfEAIQAQ%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_starter%22%3eCgkI3MyakMcfEAIQAg%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_expert%22%3eCgkI3MyakMcfEAIQAw%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_super_expert%22%3eCgkI3MyakMcfEAIQBA%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_super_duper_expert%22%3eCgkI3MyakMcfEAIQBg%3c%2fstring%3e%0a++%3cstring+name%3d%22leaderboard_leaderboard%22%3eCgkI3MyakMcfEAIQBw%3c%2fstring%3e%0a%3c%2fresources%3e
+and.ClientId=
+proj.requireGPlus=false
+android.SetupDone=true
